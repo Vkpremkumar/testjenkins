@@ -8,6 +8,7 @@
 
 	<name>roshambo</name>
 
+<packaging>war</packaging>
 
 	<dependencies>
 		<dependency>
